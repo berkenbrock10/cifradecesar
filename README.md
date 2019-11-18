@@ -1,7 +1,8 @@
 # Cifra de César
 
 Script em python usando a implementação de cifra de substituição, Cifra de César. 
-Para executar, rode no terminal os seguintes comandos:
+
+<br>Para executar, rode no terminal os seguintes comandos:
 
 ```sh
 $ python cidradecesar.py encriptar "governanca em tecnologia da informacao e sistemas"
@@ -9,3 +10,5 @@ $ python cidradecesar.py encriptar "governanca em tecnologia da informacao e sis
 $ python cidradecesar.py desencriptar "ltajwsfshf jr yjhstqtlnf if nsktwrfhft j xnxyjrfx"
 > governanca em tecnologia da informacao e sistemas
 ```
+
+Desenvolvido por Christian Berkenbrock.
